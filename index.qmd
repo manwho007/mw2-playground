@@ -2,9 +2,7 @@
 title: "mw2-playground"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is a mw2-playground website.
 
 ```{r}
 1 + 1
